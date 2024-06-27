@@ -11,12 +11,10 @@ date: "2024-06-18"
 
 ## Programas para instalar
 1) Gitbash
-2) Iqtree
-3) Figtree
-4) RStudio:
--Paquetes:
-
-
+2) Musscle
+3) Iqtree
+4) 5) Figtree
+6) RStudio: marckdown
 
 ## Data
 
@@ -26,14 +24,13 @@ Matrices:
 
 ## Scripts
 
-1) Se generará un script en la terminal Git Bash para que ejecute el análisis filogenético de las secuencias en formato FASTA utilizando la herramienta IQ-TREE.
-2) Se realizará la visualización y anotación de los árboles filogenéticos resultantes empleando el programa FigTree, el cual permitirá explorar de manera interactiva la topología y características de los árboles.
-
+1) Se generará un script para la alineación con musscle.
+2) Se generará un script en la terminal Git Bash para que ejecute el análisis filogenético de las secuencias en formato FASTA utilizando la herramienta IQ-TREE.
+3) Se realizará la visualización y anotación del árbol filogenético resultante empleando el programa FigTree, el cual permitirá explorar de manera interactiva la topología y característica del árbol.
 
 ## Results
 
-1) Árbol filogenético para todos los genes. 
-2) Obtención de variables con distribución normal
+1) Árbol filogenético para el gen mitocondrial 16S. 
    
 
 Enlace: [Ficha de Pristimantis galdi en Bioweb de Anfibios](https://www.bioweb.bio/faunaweb/amphibiaweb/FichaEspecie/Pristimantis%20galdi)
